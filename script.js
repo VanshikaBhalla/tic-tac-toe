@@ -66,5 +66,5 @@ reset.addEventListener("click",()=>{
         i.innerText="";
     });
     winn.innerText = "";
-    reset.style.bottom = "55px";
+    reset.style.bottom = "45px";
 });
