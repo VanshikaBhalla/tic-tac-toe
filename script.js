@@ -67,4 +67,6 @@ reset.addEventListener("click",()=>{
     });
     winn.innerText = "";
     reset.style.bottom = "45px";
+    cnt=0;
+    player1=1;
 });
